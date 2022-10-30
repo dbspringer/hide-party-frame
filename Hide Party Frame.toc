@@ -1,0 +1,7 @@
+## Interface: 100000
+## Title: Hide Party Frame
+## Notes: Does what it says on the tin
+## Author: Kid Moxie
+## Version: 1.0
+## DefaultState: Enabled
+hide.lua
